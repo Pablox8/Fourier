@@ -1,5 +1,3 @@
-[//]: # (TODO: finish the README.md)
-
 # Epicycle Drawing with Discrete Fourier Transform
 
 This simple C program uses the Discrete Fourier Transform (DFT) to reconstruct a user-drawn path using rotating epicycles.
@@ -20,6 +18,7 @@ Fourier/
 │ ├── epicycles.c
 │ ├── fourier.c
 │ └── linked_list.c
+├── LICENSE
 ├── makefile
 └── README.md
 ```
