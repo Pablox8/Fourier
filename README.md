@@ -19,8 +19,8 @@ Fourier/
 │ ├── fourier.c
 │ └── linked_list.c
 ├── LICENSE
-├── makefile
-└── README.md
+├── README.md
+└── makefile
 ```
 
 ---
