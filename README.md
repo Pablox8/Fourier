@@ -18,6 +18,7 @@ Fourier/
 │ ├── epicycles.c
 │ ├── fourier.c
 │ └── linked_list.c
+├── .gitignore
 ├── LICENSE
 ├── README.md
 └── makefile
