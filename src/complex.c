@@ -1,4 +1,4 @@
-#include "complex.h"
+#include "../inc/complex.h"
 #include <math.h>
 
 /**

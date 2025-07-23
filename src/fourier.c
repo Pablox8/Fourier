@@ -1,4 +1,4 @@
-#include "fourier.h"
+#include "../inc/fourier.h"
 #include <stdlib.h>
 #include <math.h>
 

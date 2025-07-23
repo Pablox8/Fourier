@@ -1,4 +1,4 @@
-#include "linked_list.h"
+#include "../inc/linked_list.h"
 #include "raymath.h"
 #include <stdio.h>
 #include <stdlib.h>

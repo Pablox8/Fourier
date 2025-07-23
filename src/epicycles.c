@@ -1,6 +1,6 @@
 #include "raylib.h"
-#include "linked_list.h"
-#include "fourier.h"
+#include "../inc/linked_list.h"
+#include "../inc/fourier.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
